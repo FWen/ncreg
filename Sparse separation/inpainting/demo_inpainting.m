@@ -2,7 +2,7 @@ clear all; clc; close all;
 
 image_files = {'Lenna.tiff'};
 
-HIGHT = 64;
+HIGHT = 512;
 WIDTH = HIGHT;
 n = WIDTH*HIGHT;
 
